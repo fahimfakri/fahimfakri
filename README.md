@@ -1,4 +1,4 @@
-## # Hi there! I'm Fahim 👋
+#  Hi there! I'm Fahim 👋
 
 ### Aspiring Full-Stack Developer | Computer Science Undergraduate
 
